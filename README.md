@@ -1,2 +1,2 @@
-# Ola Mundo
- teste de git
+# Olá, Mundo!
+ treinando instruções de git
